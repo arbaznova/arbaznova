@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 Who I Am (No Fluff)
+## 🧠 Who Am I?
 
 I am a **backend systems–obsessed engineer** focused on **how things work under pressure** — threads, sockets, memory, execution models, and system boundaries.
 
@@ -20,7 +20,7 @@ Long-term, I am not aiming to be “just another backend dev.” I am aiming for
 
 ---
 
-## 🧨 Core Weapons (Tech Stack)
+## 🧨 Core Tech Stack
 
 ### Languages
 

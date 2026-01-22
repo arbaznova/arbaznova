@@ -1,4 +1,4 @@
-# Mohammad Arbaz Khilji – Chat & Conversational AI Projects
+# Mohammad Arbaz Khilji
 
 Welcome! This repository showcases my work on **secure, real-time chat systems** and **AI-powered conversational agents**, built from scratch with production-ready principles in mind.
 

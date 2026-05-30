@@ -18,8 +18,8 @@ I enjoy building systems that are:
 ---
 
 ### Tech Stack
-`Go` • `Java` • `Python` • `Gin` • `Spring Boot` • `PostgreSQL`  
-`LangChain` • `LLMs` • `REST APIs` • `System Design`
+`Go` • `Java` • `Python` • `Langraph` • `PostgreSQL`  
+`LangChain` 
 
 ---
 
@@ -71,7 +71,7 @@ Instead of navigating multiple UI layers, just ask:
 - **Backend:** Go (Gin)  
 - **Frontend:** React + Vite  
 - **Database/Auth:** PostgreSQL + Supabase  
-- **AI:** LangChain (Go) + Google Gemini 1.5 Pro  
+- **AI:** LangChain  + Langraph  
 - **Ecosystem:** OpenMetadata REST APIs  
 
 ---

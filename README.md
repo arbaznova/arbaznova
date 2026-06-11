@@ -5,7 +5,7 @@
 
 <!-- Dynamic Typing SVG Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BB9AF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Arbaz+👋;Backend+%26+AI+Engineer;Building+Scalable%2C+Concurrent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BB9AF7&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Arbaz+%F0%9F%91%8B;Backend+%26+AI+Engineer;Building+Scalable%2C+Concurrent+Systems" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -98,7 +98,7 @@
 
 ## 🚀 Featured Projects
 
-### 1. **Gocals** 📍
+### 1. **Gocals** 📍[Live Link](https://gocals.com)
 > **AI-Powered Local Events Platform** &middot; *Backend & AI Automation Intern (Kverty)*
 - **Core Stack:** Go (Gin), PostgreSQL, Redis, PostGIS, LangChain, LangGraph.
 - **Architectural Highlights:**

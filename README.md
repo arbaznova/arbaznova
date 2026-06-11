@@ -1,6 +1,6 @@
 <!-- Wave Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=1a1b26&height=180&section=header&text=Mohammad%20Arbaz%20Khilji&fontSize=40&fontColor=73DACA&animation=fadeIn" width="100%" alt="Header Waving" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=180&section=header&text=Mohammad%20Arbaz%20Khilji&fontSize=40&fontColor=73DACA&animation=fadeIn" width="100%" alt="Header Waving" />
 </p>
 
 <!-- Dynamic Typing SVG Header -->
@@ -14,7 +14,7 @@
 ```text
  _________________   arbaz@github
 |.--------------. |  ------------
-||    __  __    | |  OS:        Linux / WSL2 (Ubuntu & Arch)
+||    __  __    | |  OS:        Linux / WSL2 (Ubuntu)
 ||   /  \/  \   | |  Focus:     Scalable Backends, Distributed Systems & AI Agents
 ||   \      /   | |  Languages: Go (Gin), Java (Spring Boot), Python (FastAPI)
 ||    \    /    | |  Systems:   Concurrency, TLS/TCP Security, Core Protocols
@@ -124,6 +124,14 @@
 
 ---
 
+<div align="center">
+  <h3>Thanks for stopping by!</h3>
+  <p><i>If you're building something ambitious and need someone who enjoys backend architecture, distributed systems, and AI agents...</i></p>
+  <p><b>My inbox is probably less overloaded than yours. 😉</b></p>
+</div>
+
+---
+
 ## 📬 Let's Connect!
 <p align="center">
   <a href="mailto:mohdarbazkhilji@gmail.com">
@@ -142,5 +150,5 @@
 
 <!-- Wave Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=1a1b26&height=80&section=footer" width="100%" alt="Footer Waving" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=80&section=footer" width="100%" alt="Footer Waving" />
 </p>
